@@ -1,0 +1,14 @@
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Kapsülleme ve Property Kavramı\bin\Debug\net7.0\Kapsülleme ve Property Kavramı.exe
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Kapsülleme ve Property Kavramı\bin\Debug\net7.0\Kapsülleme ve Property Kavramı.deps.json
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Kapsülleme ve Property Kavramı\bin\Debug\net7.0\Kapsülleme ve Property Kavramı.runtimeconfig.json
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Kapsülleme ve Property Kavramı\bin\Debug\net7.0\Kapsülleme ve Property Kavramı.dll
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Kapsülleme ve Property Kavramı\bin\Debug\net7.0\Kapsülleme ve Property Kavramı.pdb
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Kapsülleme ve Property Kavramı\obj\Debug\net7.0\Kapsülleme ve Property Kavramı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Kapsülleme ve Property Kavramı\obj\Debug\net7.0\Kapsülleme ve Property Kavramı.AssemblyInfoInputs.cache
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Kapsülleme ve Property Kavramı\obj\Debug\net7.0\Kapsülleme ve Property Kavramı.AssemblyInfo.cs
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Kapsülleme ve Property Kavramı\obj\Debug\net7.0\Kapsülleme ve Property Kavramı.csproj.CoreCompileInputs.cache
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Kapsülleme ve Property Kavramı\obj\Debug\net7.0\Kapsülleme ve Property Kavramı.dll
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Kapsülleme ve Property Kavramı\obj\Debug\net7.0\refint\Kapsülleme ve Property Kavramı.dll
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Kapsülleme ve Property Kavramı\obj\Debug\net7.0\Kapsülleme ve Property Kavramı.pdb
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Kapsülleme ve Property Kavramı\obj\Debug\net7.0\Kapsülleme ve Property Kavramı.genruntimeconfig.cache
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Kapsülleme ve Property Kavramı\obj\Debug\net7.0\ref\Kapsülleme ve Property Kavramı.dll
